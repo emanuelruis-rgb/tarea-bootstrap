@@ -1,0 +1,79 @@
+body {
+    background-color: #edf5e9 !important;
+}
+
+.navbar {
+  background-color: #3d6b3d !important;
+}
+
+.navbar-brand, .nav-link {
+    color: #e8f5e0 !important;
+}
+
+.nav-link:hover {
+    color: #ffffff  !important;
+}
+
+.btn-outline-success {
+    color: #254f25 !important;
+    border-color: #5a8a3a !important;
+}
+
+.btn-outline-success:hover {
+    background-color: #5a8a3a !important;
+    border-color: #5a8a3a !important;
+    color: #ffffff !important;
+}
+.card {
+    background-color: #f5fbf2 !important;
+    border-color: #b8ddb0 !important;
+}
+
+.card-title {
+    color: #2d5a2d !important;
+}
+
+.card-text {
+    color: #4a6e4a !important;
+}
+
+.card-img-top {
+    height: 280px;
+    object-fit: cover;
+    object-position: center top;
+}
+
+.carousel {
+    border-radius: 16px;
+    overflow: hidden; 
+}
+
+.carousel-item {
+    overflow: hidden;
+}
+
+.card-item img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    object-position: center;
+}
+
+label {
+    color: #3d6b3d;
+}
+
+.form-control, .form-select {
+    border: 1px solid #b8ddb0 !important;
+    color: #2d5a2d !important;
+}
+
+.btn-success, button[type="submit"] {
+    background-color: #4a7c59 !important;
+    border-color: #4a7c59 !important;
+}
+
+.btn-success:hover, button[type="submit"]:hover {
+    background-color: #3d6b3d !important;
+    border-color: #3d6b3d !important;
+}
